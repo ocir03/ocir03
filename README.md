@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ocir03
+- 👋 Hi, I’m Rico
 - 👀 I’m interested in mathematics, statistics, problem-solving, and data science.
 - 🌱 I’m currently learning Python and Data Science
 - 💞️ I’m looking to collaborate on solving problems using with science.
